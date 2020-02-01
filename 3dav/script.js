@@ -1,5 +1,5 @@
 var text="arc13581AA";
-var text2="ate145Bgg"
+var text2="ate145Bgt"
 var regex=/^[a-zA-Z]{3}[1,3,5,8]{5}[A,B]{2}$/;
 if (text.match(regex))
 {
